@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eat-da-burga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtledbet/burger.git"
+  },
+  "author": "Jon Ledbetter",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jtledbet/burger/issues"
+  },
+  "homepage": "https://github.com/jtledbet/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1"
+  }
+}
